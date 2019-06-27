@@ -12,6 +12,7 @@ public class WelcomeActivity extends AppCompatActivity {
      * 5
      */
     private TextView mTv;
+    private String namw;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
